@@ -27,6 +27,7 @@
 - (IBAction)clicked:(id)sender
 {
     NSLog(@"Hello Word !");
+    NSLog(@"Hello Word 2 !");
 }
 
 @end
